@@ -69,4 +69,4 @@ Status: PLANNED — тестілер әлі орындалған жоқ.
 - Status: PLANNED
 
 ## Test Execution Notes
-These are planned test cases. Do not report PASS or FAIL until each test has actually been executed and its observed result recorded.
+These are planned test cases. Do not report PASS or FAIL until each test has actually been executed and its observed result recorded .
